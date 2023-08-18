@@ -50,7 +50,7 @@ affecting the flights for example weather which are simply not predictable.
 ![image](https://github.com/m1k4x00/Using-Classification-Methods-To-Predict-Flight-Delays/assets/142576207/0f5d21bc-9bf9-4c07-9eaf-80464834c81b)
 ![image](https://github.com/m1k4x00/Using-Classification-Methods-To-Predict-Flight-Delays/assets/142576207/f7fba844-580b-4823-ac26-23016fb6fe7e)
 
-### Modeling
+### 3.2 Modeling
 ### 3.2.1 Logistic Regression
 
 When inspecting the data, it seems that a classification method would best fit our purposes. We can
