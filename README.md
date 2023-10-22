@@ -26,7 +26,7 @@ and delayed, respectively. The dataset contains both strings and integers. For t
 going to pick which features are the most favorable for the prediction, thus making the model
 supervised. Feature selection is discussed further in the next section.
 
-![image](https://github.com/m1k4x00/Using-Classification-Methods-To-Predict-Flight-Delays/assets/142576207/86342804-db97-4038-a0ce-4daebe12470f)
+![image](https://github.com/m1k4x00/Using-Classification-Methods-To-Predict-Flight-Delays/assets/142576207/3576d9c3-48cd-4c60-b679-b234127f4bdd)
 
 ## 3. Methods
 ### 3.1 Feature Selection
@@ -47,8 +47,8 @@ somewhat useful for the model, but we are going to use them anyway because our d
 too limited. One explanation for the low correlation is the fact that there are countless variables
 affecting the flights for example weather which are simply not predictable.
 
-![image](https://github.com/m1k4x00/Using-Classification-Methods-To-Predict-Flight-Delays/assets/142576207/0f5d21bc-9bf9-4c07-9eaf-80464834c81b)
-![image](https://github.com/m1k4x00/Using-Classification-Methods-To-Predict-Flight-Delays/assets/142576207/f7fba844-580b-4823-ac26-23016fb6fe7e)
+![image](https://github.com/m1k4x00/Using-Classification-Methods-To-Predict-Flight-Delays/assets/142576207/cb82bacd-2bb1-4c0d-b8a1-49baab6ae3f9)
+![image](https://github.com/m1k4x00/Using-Classification-Methods-To-Predict-Flight-Delays/assets/142576207/1ca07833-010b-4e0a-9624-fa18629986c9)
 
 ### 3.2 Modeling
 ### 3.2.1 Logistic Regression
@@ -102,7 +102,7 @@ model can be seen in table 2. The testing set was created in section 3.3 by spli
 training, validation, and test sets to allow hyperparameter tuning which we did for the MLP model.
 because we have a large dataset, and thus it would be computationally too costly. [2]
 
-![image](https://github.com/m1k4x00/Using-Classification-Methods-To-Predict-Flight-Delays/assets/142576207/d52cf77c-c64c-4fe4-97e9-6fb457532126)
+![image](https://github.com/m1k4x00/Using-Classification-Methods-To-Predict-Flight-Delays/assets/142576207/9cc7de2d-55f9-4f5a-aaa4-22cbe8781521)
 
 ## 5. Conclusion
 
